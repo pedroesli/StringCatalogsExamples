@@ -1,0 +1,253 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "example1.body" : {
+      "comment" : "The body of example 1 view",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome to the burger planet. A place where you have unlimited burgers! 🍔"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bem-vindo ao planeta do hambúrguer. Um lugar onde você tem hambúrgueres ilimitados! 🍔"
+          }
+        }
+      }
+    },
+    "example1.title" : {
+      "comment" : "The title of example 1 view",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Burger Planet"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Planeta hambúrguer"
+          }
+        }
+      }
+    },
+    "example2.button.decrease" : {
+      "comment" : "To decrease the bird count",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Decrease"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diminuir"
+          }
+        }
+      }
+    },
+    "example2.button.increase" : {
+      "comment" : "To increase the bird count",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Increase"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aumentar"
+          }
+        }
+      }
+    },
+    "example2.text.backyard" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Backyard"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quintal"
+          }
+        }
+      }
+    },
+    "example2.text.bird" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bird"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pássaro"
+          }
+        }
+      }
+    },
+    "example2.text.birdInBackyard%lld%lld" : {
+      "comment" : "The number of birds in a backyard",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You have %#@birds@ in %#@yards@"
+          },
+          "substitutions" : {
+            "birds" : {
+              "argNum" : 1,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg bird"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg birds"
+                    }
+                  }
+                }
+              }
+            },
+            "yards" : {
+              "argNum" : 2,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg backyard"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg backyards"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você tem %#@birds@ em %#@yards@"
+          },
+          "substitutions" : {
+            "birds" : {
+              "argNum" : 1,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg pássaro"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg pássaros"
+                    }
+                  },
+                  "zero" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg pássaros"
+                    }
+                  }
+                }
+              }
+            },
+            "yards" : {
+              "argNum" : 2,
+              "formatSpecifier" : "lld",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg quintal"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg quintais"
+                    }
+                  },
+                  "zero" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%arg quintais"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "example3.text.message%@" : {
+      "comment" : "A message to the user",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The person %@ is an awesome coder! 🙌"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A pessoa %@ é um programador incrível! 🙌"
+          }
+        }
+      }
+    },
+    "example3.textfield.name" : {
+      "comment" : "The name of the user",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nome"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
