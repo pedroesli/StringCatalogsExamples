@@ -62,14 +62,14 @@
 		37EBB5B72BAB2D54004DE07B /* StringCatalogs */ = {
 			isa = PBXGroup;
 			children = (
-				37EBB5C92BAB2D94004DE07B /* Constants */,
-				37EBB5CC2BAB4BE3004DE07B /* Examples */,
-				37EBB5B82BAB2D54004DE07B /* StringCatalogsApp.swift */,
-				37EBB5BA2BAB2D54004DE07B /* ContentView.swift */,
 				37EBB5BC2BAB2D56004DE07B /* Assets.xcassets */,
-				37EBB5BE2BAB2D56004DE07B /* StringCatalogs.entitlements */,
-				37EBB5BF2BAB2D56004DE07B /* Preview Content */,
+				37EBB5C92BAB2D94004DE07B /* Constants */,
+				37EBB5BA2BAB2D54004DE07B /* ContentView.swift */,
+				37EBB5CC2BAB4BE3004DE07B /* Examples */,
 				37EBB5C72BAB2D80004DE07B /* Localizable.xcstrings */,
+				37EBB5BF2BAB2D56004DE07B /* Preview Content */,
+				37EBB5BE2BAB2D56004DE07B /* StringCatalogs.entitlements */,
+				37EBB5B82BAB2D54004DE07B /* StringCatalogsApp.swift */,
 			);
 			path = StringCatalogs;
 			sourceTree = "<group>";
